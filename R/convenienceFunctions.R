@@ -129,7 +129,3 @@ CI_nonSymmetric_cloglog <- function(h2Obs,K,SEh2Obs,alphaThreshold=0.05){
     z <- qnorm(1-alphaThreshold/2)
     print(paste0("(", exp(log(LSHEst) * exp(Q * z) ) ,",",exp(log(LSHEst) * exp(-Q * z) ),")"))
 }
-
-
-
-
