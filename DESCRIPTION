@@ -4,4 +4,4 @@ Date: 2023-10-04
 Title: Liability-scale heritability estimation for biobank studies of low-prevalence disease
 Description: This is simply a rearrangement of https://github.com/svenojavee/LSH to convert it into an installable R package.
 Author: Sven E. Ojavee, Zoltan Kutalik, Matthew R. Robinson <matthew.robinson@ist.ac.at>
-Maintainer: James Pirruccello
+
