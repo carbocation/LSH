@@ -24,8 +24,8 @@ h2g_liability <- LSH_ascertain(h2Obs=observed_scale_heritability, P=sample_preva
 
 se <- LSH_ascertain_SE(h2Obs=observed_scale_heritability, SEh2Obs=observed_scale_heritability_se, P=sample_prevalence, K=population_prevalence)
 
-print(paste0("liability threshold heritability: ", round(h2g_liability, 3),". std error: ", round(se, 3)))
-# [1] "liability threshold heritability: 0.049. std error: 0.004"
+print(paste0("liability scale heritability: ", round(h2g_liability, 3),". std error: ", round(se, 3)))
+# [1] "liability scale heritability: 0.049. std error: 0.004"
 ```
 
 ---------
