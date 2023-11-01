@@ -1,6 +1,6 @@
 # Liability Scale Heritability
 An R package dervied from the code at https://github.com/svenojavee/LSH
-published in the Amerian Journal of Human Genetics in 2022 (doi:
+published in the American Journal of Human Genetics in 2022 (doi:
 [10.1016/j.ajhg.2022.09.011](https://www.sciencedirect.com/science/article/pii/S0002929722004141)).
 
 The authors have a Shiny webapp at
